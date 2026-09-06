@@ -1,0 +1,35 @@
+{
+  "id": "ameacas-de-arton-importador",
+  "title": "Ameaças de Arton — Compêndio único por ND",
+  "description": "Versão 1.6.0 final da auditoria de parâmetros: 430 ameaças comparadas com o livro fornecido, incluindo ND, atributos, perícias, sentidos, resistências/imunidades/vulnerabilidades e remoção de contaminação confirmada entre blocos vizinhos. Mantém a automação de ataques e habilidades revisada para Tormenta20 1.5.015 / Foundry V13.",
+  "version": "1.6.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Compêndio gerado para uso pessoal a partir do material fornecido pelo usuário"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {
+          "minimum": "1.5.015",
+          "verified": "1.5.015",
+          "maximum": "1.5.015"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/module.js"
+  ],
+  "url": "https://github.com/vitorhrodriguesz/ameacas-de-arton-foundry",
+  "manifest": "https://raw.githubusercontent.com/vitorhrodriguesz/ameacas-de-arton-foundry/main/module.json",
+  "download": "https://raw.githubusercontent.com/vitorhrodriguesz/ameacas-de-arton-foundry/main/ameacas-de-arton-importador.zip"
+}
